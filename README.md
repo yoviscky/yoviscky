@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's stats"/>&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviscky&layout=compact&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's most languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's stats"/>&nbsp;
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviscky&layout=compact&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's most languages"/>
 </div>
 
 <br>
