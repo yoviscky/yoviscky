@@ -1,29 +1,59 @@
-## Oiii eu sou a Julia Alves
-![GitHub followers](https://img.shields.io/github/followers/yoviscky?label=Follow&style=social)
+<!-- about me -->
+<h1 align="left">Hi, I'm Julia Alves</h1>
 
-<div align="center">
-  <a href="https://github.com/yoviscky">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviscky&layout=compact&langs_count=7&theme=dracula"/>
+- An junior Web Developer focused on front-end technologies 
+
+- I’m at my first job as a front-end developer
+
+<!-- portfolio link
+- All of my projects are available at [portfolio]()
+-->
+
+- I'm also looking to collaborate more with open source
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-161616?style=flat-square&logo=typescript)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next-161616?style=flat-square&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-161616?style=flat-square&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-161616?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-161616?style=flat-square&logo=SASS)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-161616?style=flat-square&logo=styledcomponents)&nbsp;
+![Git](https://img.shields.io/badge/-Git-161616?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-161616?style=flat-square&logo=node.js)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-161616?style=flat-square&logo=markdown)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-161616?style=flat-square&logo=firebase)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161616?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-161616?style=flat-square&logo=sqlite)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's stats"/>&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviscky&layout=compact&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="yoviscky's most languages"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Juh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Juh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Juh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Juh-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/XmFai5P.gif?width=676&height=676">
+<br>
+
+## 👥 &nbsp;Social Links
+
+<div>
+<a href="https://instagram.com/juhalvs_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-juhalvs_-161616?style=for-the-badge&logo=instagram" alt="instagram"/>  
+</a>&nbsp;
+<a href="https://twitch.com/julyysz" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-julyysz-161616?style=for-the-badge&logo=twitch" alt="twitch"/>
+</a>&nbsp;
+<a href="https://open.spotify.com/user/29mmy7ckk4x3mxjzu11z8u8pp" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-bunny-161616?style=for-the-badge&logo=spotify" alt="spotify"/>
+</a>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/juhalvs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/julyysz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+<br>
+
+## 🐍 &nbsp;Snake Animation
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
