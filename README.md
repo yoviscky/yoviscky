@@ -1,5 +1,5 @@
 <!-- about me -->
-<h1 align="left">Hi, I'm Julia Alves</h1>
+<h1 align="left">Hii, I'm Julia</h1>
 
 - An junior Web Developer focused on front-end technologies 
 
@@ -15,19 +15,13 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-161616?style=flat-square&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next-161616?style=flat-square&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-161616?style=flat-square&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-161616?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-161616?style=flat-square&logo=SASS)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-161616?style=flat-square&logo=styledcomponents)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-161616?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-161616?style=flat-square&logo=node.js)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-161616?style=flat-square&logo=markdown)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-161616?style=flat-square&logo=firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161616?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-161616?style=flat-square&logo=sqlite)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
