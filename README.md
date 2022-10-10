@@ -19,3 +19,4 @@ J'ai commencé à développer quand j'ai voulu apprendre à faire un bot pour pa
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/yoviscky/count.svg" />
 </p>
+.
