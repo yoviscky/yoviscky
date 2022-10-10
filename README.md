@@ -17,15 +17,9 @@ J'ai commencé à développer quand j'ai voulu apprendre à faire un bot pour pa
 </p>
 
 ## ⚽ Discord Rish Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/749789188378984591)](https://discord.com/users/749789188378984591)
+[![Discord Presence](https://lanyard.cnrad.dev/api/749789188378984591)](https://discord.com/users/749789188378984591)
   
 ## Compteur de visite :
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/yoviscky/count.svg" />
 </p>
-
-## Stats Git :
-
-<img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&hide_border=true" />
-<img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoviscky&show_icons=true&theme=tokyonight&layout=compact" />
-<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=yoviscky&theme=dracula" />
