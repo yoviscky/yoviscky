@@ -12,22 +12,20 @@ J'ai commencé à développer quand j'ai voulu apprendre à faire un bot pour pa
 ## 🌍 Languages de programation :
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="ejs" src="https://img.shields.io/badge/-EJS-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="py" src="https://img.shields.io/badge/-Python-168BFA?style=flat-square&logo=python&logoColor=black" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-FF8300?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&logoColor=blue" />
 </p>
 
 ## ⚽ Discord Rish Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492402867953467392)](https://discord.com/users/492402867953467392)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/749789188378984591)](https://discord.com/users/749789188378984591)
   
 ## Compteur de visite :
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/SonMaxime/count.svg" />
+  <img src="https://profile-counter.glitch.me/yoviscky/count.svg" />
 </p>
 
 ## Stats Git :
 
-<img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=SonMaxime&show_icons=true&hide_border=true" />
-<img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonmaxime&show_icons=true&theme=tokyonight&layout=compact" />
-<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=SonMaxime&theme=dracula" />
+<img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=yoviscky&show_icons=true&hide_border=true" />
+<img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoviscky&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=yoviscky&theme=dracula" />
