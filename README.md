@@ -2,12 +2,8 @@
 Je suis un jeune étudiant développeur.
 J'ai commencé à développer quand j'ai voulu apprendre à faire un bot pour passer mon temps et apprendre d'autres choses, et depuis c'est devenu comme une seconde passion qui m'a amené à faire plus que juste Discord, donc j'apprends actuellement le HTML (et accidentellement le CSS). J'espère pouvoir proposer du contenu qui aide🙂 .
 
-- 🔭 Projet en cours de développement : [Nobara.JS](https://github.com/SonMaxime/Nobara.JS)
-- 📫 Comment me contacter : [Twitter](https://twitter.com/BrutalSonMaxime)
+- 🔭 Projet en cours de développement : [kirigaya.JS](https://github.com/yoviscky/kirigaya.JS)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
-
-## Quelques jeux que j'ai crée : 
-- Flappy Bird (quelques bugs à régler) : https://github.com/SonMaxime/FlappyBirdNodeJS
 
 ## 🌍 Languages de programation :
 <p>
