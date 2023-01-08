@@ -56,8 +56,8 @@
             <div class="row game-pa">
                 <div class="col-lg-4 col-md-11 tab-m-auto" data-aos="fade-right">
                     <div class="game-box">
-                        <span>MORE</span>
-                        <h3>INFOS</h3>
+                        <!-- <span>MORE</span>
+                        <h3>INFOS</h3> -->
                         <div class="game-box badges">
                             <img src='https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white' alt='game-js'>
                             <img src='https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white' alt='game-html'>
@@ -92,7 +92,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row">
-                        <div class="col-lg-6 col-sm-7 copy-right-txt">
+                        <!-- <div class="col-lg-6 col-sm-7 copy-right-txt">
                             <p><i class="fa fa-registered" aria-hidden="true"></i>
                             <img src='assets/images/instagram.png' width=20px>
                             <a href='https://instagram.com/juhalvs_'>Instagram</a>
@@ -100,7 +100,7 @@
                             <img src='assets/images/discord.png' width=20px>
                             <a href='https://instagram.com/juhalvs_'>Discord</a>
                             </p>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
