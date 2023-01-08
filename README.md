@@ -70,10 +70,11 @@
                     <div class="game-main">
                         <div class="col-lg-4 game-item text-center mb-5">
                             <div class="game-img">
+                            <br/>
                                 <center><img src="https://lanyard.cnrad.dev/api/749789188378984591" alt="game-img" class="img-fluid"></center>
                                 <div class="lightbox-overlay">
                                     <a href="#" target="_blank">
-                                        <p class="destiny-text">Santi mama</p>
+                                        <!-- <p class="destiny-text">Santi mama</p> -->
                                     </a>
                                 </div>
                             </div>
