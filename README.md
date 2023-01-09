@@ -15,4 +15,3 @@
         <img src="https://lanyard.cnrad.dev/api/749789188378984591">
     </section>
 </body>
-;
