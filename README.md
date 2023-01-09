@@ -1,6 +1,6 @@
 <body class="github">
     <section id="main">
-        <img src='assets/lazer.svg' min-width='350px' width='350px' align='right'>
+        <img src='https://raw.githubusercontent.com/yoviscky/yoviscky/42f6bf5f8e71f2d4ee80958ddca8ec93a49a694a/assets/lazer.svg' min-width='350px' width='350px' align='right'>
         <h3>Howdy 👋</h3>
         <p>I am a young student developer. I started developing when I wanted to learn how to make a bot to spend my time and learn other things, and since then it has become like a second passion that has led me to do more than just Discord, so i'm currently learning HTML (and accidentally CSS). I hope I can create content that helps🙂.</p>
     </section>
