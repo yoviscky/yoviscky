@@ -11,7 +11,5 @@
             <img src='https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white'>
             <img src='https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white'>
         </div>
-        <br/>
-        <img src="https://lanyard.cnrad.dev/api/749789188378984591">
     </section>
 </body>
